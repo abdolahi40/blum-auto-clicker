@@ -6,6 +6,7 @@
 
 # Blum Auto Clicker
 ![image](https://github.com/user-attachments/assets/10049d99-d8b7-4175-ba48-f364d710ab8d)
+
 Blum Auto Clicker - is a tool designed to help you manage and interact with BlumCryptoBot. This tool will click on green objects instead of you, earning from 200-250 blums.
 
 ### Features
@@ -13,8 +14,10 @@ Blum Auto Clicker - is a tool designed to help you manage and interact with Blum
 - Almost not collects bombs
 - Automate interaction with BlumCryptoBot
 
-### Installation
 
+<details>
+  <summary>Click for - Installation</summary>
+### Installation
 #### For Windows Users
 
 1. **Clone the repository:**
@@ -28,9 +31,11 @@ Blum Auto Clicker - is a tool designed to help you manage and interact with Blum
     ```bash
     pip install -r requirements.txt
     ```
+</details>
 
+<details>
+  <summary>Click for - Usage</summary>
 ### Usage
-
 #### For Windows Users
 
 1. **Run the script:**
@@ -44,3 +49,4 @@ Blum Auto Clicker - is a tool designed to help you manage and interact with Blum
     - Press `p` to pause/resume the programm
 
 ## You should fistly start the game, and then press 's' to start.
+</details>
