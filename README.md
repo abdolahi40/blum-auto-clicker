@@ -14,6 +14,9 @@ Blum Auto Clicker - is a tool designed to help you manage and interact with Blum
 - Almost not collects bombs
 - Automate interaction with BlumCryptoBot
 
+### Tested
+- Tested in Telegram desktop
+
 ## Installation
 <details>
   <summary>Click for - Installation</summary>
