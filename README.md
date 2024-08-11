@@ -1,9 +1,11 @@
 ## Recommendation before usage
+### Use python 3.10/3.11/3.12
 
-# Use python 3.10/3.11/3.12
+## Windows .EXE
+[Download App - Releases](https://github.com/abdolahi40/blum-auto-clicker/releases)
 
 # Blum Auto Clicker
-
+![image](https://github.com/user-attachments/assets/10049d99-d8b7-4175-ba48-f364d710ab8d)
 Blum Auto Clicker - is a tool designed to help you manage and interact with BlumCryptoBot. This tool will click on green objects instead of you, earning from 200-250 blums.
 
 ### Features
