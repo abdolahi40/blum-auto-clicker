@@ -22,3 +22,5 @@ if __name__ == "__main__":
         asyncio.run(main())
     except KeyboardInterrupt:
         print("Exiting due to keyboard interrupt.")
+
+    input("Press ENTER to exit...")
