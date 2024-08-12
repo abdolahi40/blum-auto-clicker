@@ -1,4 +1,4 @@
-author is [LazyDev](https://github.com/devbutlazy)
+### author is [LazyDev](https://github.com/devbutlazy)
 
 ## Recommendation before usage
 ### Use python 3.10/3.11/3.12
